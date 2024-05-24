@@ -1,0 +1,15 @@
+
+var r1: int
+var r2: int
+var count: int
+#var a : arr [ 15 ] int
+
+fun fibb (n:int , x: bool) : int =
+count = n;
+c = b
+    #while count > 2 do
+    #a = a + b
+    #c = a
+    #end
+: x { where typ x : x typ z : a}
+

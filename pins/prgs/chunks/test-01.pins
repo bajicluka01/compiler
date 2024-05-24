@@ -1,0 +1,18 @@
+var a : int
+var b : char
+fun putInt(a:int) : void
+fun putChar(b:char) : void
+
+fun main() : int = 
+    #a = 4;
+    if 0 == 0 then 
+        putInt(42)
+    end;
+    if 0 == 2 + 3 - 5 then
+        putInt(42)
+    else 
+        putInt(15)
+    end
+: 0 
+
+

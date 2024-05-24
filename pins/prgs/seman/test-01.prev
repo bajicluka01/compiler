@@ -1,0 +1,29 @@
+typ novTip : int
+typ novNovTip : novTip
+typ novCharTip : char
+var i : int
+var j : novTip
+var k : novNovTip
+var y : novCharTip
+#var z : void
+var x : char
+#var t : ptr int
+#var a : arr[42] char
+var count: int
+var res: int
+var r1 : bool
+var r2 : bool
+
+fun fibb (n:int , b: bool, tmp : novCharTip) : int =
+	count = n;
+  res = -1+0+0+0 + 2;
+	while count > 2 do
+		if count % 2 == 0 
+		then
+			r1 = r1 + r2
+		else
+			r2 = r1 + r2
+		end
+	end
+: x { where typ x : x }
+
